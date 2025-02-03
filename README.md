@@ -1,5 +1,5 @@
 # Javascript array metoder
-Følg anvisningerne på Moodle for at løse opgaverne.
+Følg anvisningerne opgaven fra Mit RTS for at løse opgaverne.
 
 Husk at lave en branch, inden du går i gang med opgave løsningen.
 
