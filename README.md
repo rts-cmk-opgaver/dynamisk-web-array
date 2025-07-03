@@ -1,3 +1,5 @@
+**DYNAMISK WEB**
+
 # Javascript array metoder
 Følg anvisningerne opgaven fra Mit RTS for at løse opgaverne.
 
